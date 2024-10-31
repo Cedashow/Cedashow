@@ -19,10 +19,6 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 
 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cedashow}/count.svg" /></p> 
-<br></div>
 
 
 <picture align="center">
@@ -31,3 +27,8 @@ Estudante de Análise e Desenvolvimento de Sistemas.
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cedashow}/count.svg" /></p> 
+<br></div>
