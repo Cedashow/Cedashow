@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=434848&size=35&center=true&vCenter=true&width=1000&lines=Cedashow;Cedashow;Be+Welcome!)](https://git.io/typing-svg) 
 
-Estudante de Análise e Desenvolvimento de Sistemas.
+System analysis and development student.
 
 
 ### My Stack:
