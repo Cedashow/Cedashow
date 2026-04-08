@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=434848&size=35&center=true&vCenter=true&width=1000&lines=Cedashow;Cedashow;Be+Welcome!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=434848&size=35&center=true&vCenter=true&width=1000&lines=Cesar;Be+Welcome;Be+Welcome!)](https://git.io/typing-svg) 
 
 Software Engineering.
 
@@ -9,7 +9,7 @@ Software Engineering.
 
 ### Social
 <div align="left">  
-<a href="https://www.credly.com/users/cesarclimaco" target="_blank"><img src="https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white"</a>
+<a href="https://www.credly.com/users/cesarcj" target="_blank"><img src="https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white"</a>
 </div> 
 
 
