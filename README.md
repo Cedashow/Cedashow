@@ -12,10 +12,6 @@ Software Engineering Student.
 <a href="https://www.credly.com/users/cesarclimaco" target="_blank"><img src="https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white"</a>
 </div> 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cedashow&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Cedashow github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cedashow&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
 
 
 
